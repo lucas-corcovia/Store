@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X38uiY8ZPCA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\dev\\Store\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
